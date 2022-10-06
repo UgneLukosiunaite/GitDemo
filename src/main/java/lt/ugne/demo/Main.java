@@ -5,5 +5,7 @@ public class Main {
 
         TestA.sayHelloLt();
         System.out.println("Hello world");
+        TestA.sayHelloLt();
     }
 }
+
